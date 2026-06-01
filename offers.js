@@ -1,5 +1,5 @@
 const offers = [
-    "https://www.yongsocial.com/",
-    "https://www.yongsocial.com/",
-    "https://www.yongsocial.com/"
+    "https://t.me/YongSocial_bot",
+    "https://earnne.com/",
+    "https://ref-earn.com/QSqDX8"
 ];
